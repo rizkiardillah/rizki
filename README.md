@@ -1,0 +1,2 @@
+# rizki
+algoritma 2
